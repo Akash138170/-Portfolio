@@ -152,6 +152,6 @@ This project — add your license (MIT recommended) or replace with your preferr
 ---
 
 ## Contact
-Akash Kumar — (add email)  
+Akash Kumar — (akashkumar8298098@gmail.com)  
 GitHub: https://github.com/Akash138170  
-LinkedIn: (add your LinkedIn)
+LinkedIn: (www.linkedin.com/in/akash-kumar-553062373)
