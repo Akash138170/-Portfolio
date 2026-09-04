@@ -2,7 +2,7 @@
 
 Hi — I'm Akash Kumar, a Full‑Stack Web Developer (MERN) building modern, responsive web applications with a focus on clean UI and scalable engineering.
 
-Demo: (add your live site URL here)  
+Demo: (https://akashkumar-portfolio-eight.vercel.app/)  
 Email: (add your email) · GitHub: https://github.com/Akash138170 · LinkedIn: (add your LinkedIn)
 
 ---
